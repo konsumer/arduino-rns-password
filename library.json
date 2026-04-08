@@ -1,0 +1,25 @@
+{
+	"name": "rns-password",
+	"version": "1.0.0",
+	"description": "PBKDF2 + AES-256-CTR password-protected file storage for microReticulum identities",
+	"keywords": "reticulum, password, aes, encryption, identity",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "David Konsumer",
+			"url": "https://github.com/konsumer"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/konsumer/arduino-rns-password.git"
+	},
+	"dependencies": [
+		{
+			"name": "Crypto",
+			"url": "https://github.com/attermann/Crypto.git"
+		}
+	],
+	"frameworks": "arduino",
+	"platforms": "*"
+}
