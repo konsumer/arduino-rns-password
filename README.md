@@ -103,4 +103,4 @@ Use at least a 4-word [diceware](https://diceware.dmuth.org/) passphrase or 10+ 
 ## Dependencies
 
 - [attermann/Crypto](https://github.com/attermann/Crypto) — SHA256, AES256, CTR, RNG
-- `SD` — file I/O (Arduino built-in)
+- [attermann/microStore](https://github.com/attermann/microStore) — file I/O
